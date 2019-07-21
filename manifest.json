@@ -1,7 +1,7 @@
     
 {
-    "name": "Weather",
-    "short_name": "Weather",
+    "name": "Lotto",
+    "short_name": "Lotto",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#FFFFFF",
@@ -9,22 +9,22 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "./img/64/sunny.png",
+            "src": "./img/logo64.png",
             "type": "image/png",
             "sizes": "64x64"
         },
         {
-            "src": "./img/128/sunny.png",
+            "src": "./img/logo128.png",
             "type": "image/png",
             "sizes": "128x128"
         },
         {
-            "src": "./img/256/sunny.png",
+            "src": "./img/logo256.png",
             "type": "image/png",
             "sizes": "256x256"
         },
         {
-            "src": "./img/512/sunny.png",
+            "src": "./img/logo512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
