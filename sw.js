@@ -1,12 +1,10 @@
 const staticCacheName = 'site-static'
 const assets = [
     '/',
-    '/index.html',
-    '/js/app.js',
-    'css/style.css',
-    'https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap',
-    'https://use.fontawesome.com/releases/v5.8.1/css/all.css',
-
+    './index.html',
+    './app.js',
+    './style.css',
+    './img/lotto_logo.png'
 ]
 
 
