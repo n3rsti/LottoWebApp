@@ -1,0 +1,33 @@
+    
+{
+    "name": "Weather",
+    "short_name": "Weather",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#0984e3",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "./img/64/sunny.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "./img/128/sunny.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "./img/256/sunny.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "./img/512/sunny.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+        
+    ]
+}
