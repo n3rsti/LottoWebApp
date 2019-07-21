@@ -1,10 +1,10 @@
 const staticCacheName = 'site-static'
 const assets = [
     '/',
-    './index.html',
-    './app.js',
-    './style.css',
-    './img/lotto_logo.png'
+    '/index.html',
+    '/app.js',
+    '/style.css',
+    '/img/lotto_logo.png'
 ]
 
 
