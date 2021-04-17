@@ -4,4 +4,4 @@ Created for fun. App displays 6 random numbers in lotto themed UI. Making this p
 UI is only made for mobile devices.
 
 
-[https://n3rsti.github.io/LottoWebApp/](Live)
+[Live](https://n3rsti.github.io/LottoWebApp/)
